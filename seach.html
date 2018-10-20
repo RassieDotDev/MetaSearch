@@ -1,0 +1,24 @@
+<html>
+<head>
+  <script language="Javascript">
+  function validate(){
+    if (form1.name.value == ""){
+      alert("You have not entered a query.");
+      document.form1.name.focus();
+      return false;
+    }
+    return true;
+ }
+  </script>
+</head>
+  <body>
+
+    <form name="form1" action="/htdocs/perl/msgboard.cgi" align="center" method="get">
+      <input type="hidden" name = "num" value=1>
+      <input type="hidden" name = "num2" value=1>
+      <center><b>Enter search query: </b><br>
+      <input type="text" name="query" value=""></b><br>
+      <input type="submit" onclick = "return validate()" name = "submit" value=" search ">
+    </form>
+  </body>
+</html>

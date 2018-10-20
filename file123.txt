@@ -1,0 +1,172 @@
+   #[1]IU Knowledge Base
+
+   Skip to:
+     * [2]content
+     * [3]search
+     * [4]login
+
+[5]Indiana University Indiana University Indiana University
+
+[6]Knowledge Base
+
+   [ ]
+    Menu
+
+     * [7]Home
+     * [8]Menu
+     * [9]About us
+
+   Knowledge Base
+   ___________________________________ (BUTTON) Search
+   [10]Log in
+     * (BUTTON) Options
+     * (BUTTON) Help
+     * [11]Chat with a consultant
+
+   [15_] results per page
+   [ ] Include archived documents
+
+With Lynx, how do I download a page, image, or program from the web to my
+account from the Unix command line prompt?
+
+   To download from the web using Lynx from the [12]Unix command line
+   prompt, enter:
+ lynx -source URL > filename
+
+   Replace URL with the URL of the page or image that you want to
+   download. Replace filename with a filename that you want to give to
+   what you are downloading. For example, if you are trying to download a
+   web page at the address http://empire.gov/dvader.html, and you'd like
+   to name the page on your account myhero.html, then you'd enter:
+ lynx -source http://empire.gov/dvader.html > myhero.html
+
+   If you want to download a web page in formatted output (i.e., without
+   HTML tags, but instead as it would appear in Lynx), then enter:
+ lynx -dump URL > filename
+
+   If there are any links on the page, the URLs for those links will be
+   included at the end of the downloaded page.
+
+   At Indiana University, for personal or departmental Linux or Unix
+   systems support, see [13]At IU, how do I get support for Linux or Unix?
+
+   This is document aczi in the Knowledge Base.
+   Last modified on 2017-05-16 11:51:03.
+
+[14]I need help with a computing problem
+
+     * Fill out this form to submit your issue to the [15]UITS Support
+       Center.
+     * Please note that you must be affiliated with Indiana University to
+       receive support.
+     * All fields are required.
+
+   Full name ____________________
+   Email address ____________________
+
+   Please provide your IU email address. If you currently have a problem
+   receiving email at your IU account, enter an alternate email address.
+   Relationship to Indiana University [--Select One--_________]
+   Please enter your question or describe your problem
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Captcha
+   (BUTTON) Submit
+
+[16]I have a comment for the Knowledge Base
+
+     * Fill out this form to submit your comment to the IU Knowledge Base.
+     * If you are affiliated with Indiana University and need help with a
+       computing problem, please use the I need help with a computing
+       problem section above, or contact your campus [17]Support Center.
+
+   Full name ____________________
+   Email address ____________________
+
+   Please provide your IU email address. If you currently have a problem
+   receiving email at your IU account, enter an alternate email address.
+   Relationship to Indiana University [--Select One--_________]
+   [X] My comment concerns this document
+   Your comments
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Captcha
+   (BUTTON) Submit
+
+Connect with UITS
+
+     *
+     *
+     *
+     *
+
+   Version: trunk
+
+Navigation
+
+     * [18]Home
+     * [19]Menu
+     * [20]About us
+
+IT@IU
+
+     * [21]About IT
+     * [22]IT staff
+     * [23]Jobs in IT
+     * [24]OVPIT
+
+Support & More
+
+     * [25]Chat with a consultant
+     * [26]AskIU
+     * [27]One.IU
+
+   Fulfilling the Promise
+   Indiana University
+
+   [28]Copyright © 2018 The Trustees of [29]Indiana University |
+   [30]Copyright Complaints | [31]Privacy Notice | [32]Accessibility Help
+
+References
+
+   Visible links
+   1. https://kb.iu.edu/resources/kms/opensearch.xml
+   2. https://kb.iu.edu/d/aczi#kms-document-div
+   3. https://kb.iu.edu/d/aczi#search-input
+   4. https://kb.iu.edu/d/aczi#login_button
+   5. http://www.iu.edu/
+   6. https://kb.iu.edu/index.html
+   7. https://kb.iu.edu/
+   8. https://kb.iu.edu/d/menu
+   9. https://kb.iu.edu/d/line
+  10. https://kb.iu.edu/secure?returnUrl=/d/aczi
+  11. http://ithelplive.iu.edu/
+  12. https://kb.iu.edu/d/agat
+  13. https://kb.iu.edu/d/beqc
+  14. https://kb.iu.edu/d/aczi#collapseProblemDiv
+  15. https://kb.iu.edu/data/abxl.html
+  16. https://kb.iu.edu/d/aczi#collapseCommentDiv
+  17. https://kb.iu.edu/data/abxl.html
+  18. https://kb.iu.edu/
+  19. https://kb.iu.edu/d/menu
+  20. https://kb.iu.edu/d/line
+  21. http://it.iu.edu/about/
+  22. https://uits.iu.edu/staff
+  23. http://it.iu.edu/jobs/
+  24. http://it.iu.edu/ovpit/
+  25. http://ithelplive.iu.edu/
+  26. https://mailform.kb.iu.edu/email.php?cid=1061
+  27. https://one.iu.edu/
+  28. http://www.iu.edu/comments/copyright.shtml
+  29. http://www.iu.edu/
+  30. http://www.iu.edu/comments/complaint.shtml
+  31. https://kb.iu.edu/d/priv?t=plain
+  32. https://accessibility.iu.edu/help
+
+   Hidden links:
+  34. http://www.facebook.com/iu.uits
+  35. https://twitter.com/insideuits
+  36. http://www.youtube.com/uitsatiu
+  37. https://plus.google.com/109054154815294782478
